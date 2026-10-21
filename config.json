@@ -65,6 +65,13 @@
       "description": "Create and test a CRUD REST API with FastAPI, Pydantic, and HTTP status codes.",
       "path": "assignments/fastapi-rest-api",
       "dueDate": "2026-10-28"
+    },
+    {
+      "id": "fastapi-book-client",
+      "title": "Build a Web Client for Your FastAPI Book API",
+      "description": "Create a browser book catalog that fetches and adds books through the FastAPI REST API.",
+      "path": "assignments/fastapi-book-client",
+      "dueDate": "2026-10-28"
     }
   ]
 }
