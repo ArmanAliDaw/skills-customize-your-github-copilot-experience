@@ -58,6 +58,13 @@
           "type": "csv"
         }
       ]
+    },
+    {
+      "id": "fastapi-rest-api",
+      "title": "Building REST APIs with FastAPI",
+      "description": "Create and test a CRUD REST API with FastAPI, Pydantic, and HTTP status codes.",
+      "path": "assignments/fastapi-rest-api",
+      "dueDate": "2026-10-28"
     }
   ]
 }
